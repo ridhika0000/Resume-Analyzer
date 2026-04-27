@@ -8,7 +8,7 @@ Visual progress bar
 Tailoring suggestions
 TF-IDF + Cosine Similarity
 🚀 Live Demo
-https://resume-analyzer-ridhika0000.streamlit.app
+[https://resume-analyzer-ridhika0000.streamlit.app](https://resume-analyzer-frod2eu999zaasbgmaw74b.streamlit.app/)
 
 🛠 Quick Start
 bash
