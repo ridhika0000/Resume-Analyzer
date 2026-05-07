@@ -4,3 +4,4 @@ scikit-learn
 PyPDF2
 matplotlib
 nltk
+numpy
