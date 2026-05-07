@@ -1,23 +1,23 @@
-# Resume-Analyzer
+Resume Job Match Scorer
+AI-Powered Resume Matcher
 
-Upload PDF resume + Job description → Get match score instantly!
+An intelligent tool that calculates the alignment between a PDF resume and a Job Description using advanced NLP.
 
-✨ Features
-Match score (0-100%)
-Visual progress bar
-Tailoring suggestions
-TF-IDF + Cosine Similarity
-🚀 Live Demo
-[https://resume-analyzer-ridhika0000.streamlit.app](https://resume-analyzer-frod2eu999zaasbgmaw74b.streamlit.app/)
+🚀 Live Demo: https://resume-analyzer-ridhika0000.streamlit.app
 
-🛠 Quick Start
-bash
+🛠 Tech Stack
+Frontend: Streamlit  
 
-Copy code
+NLP: NLTK, Scikit-learn  
+
+Parser: PyPDF2  
+
+Language: Python  
+
+📁 Setup
 pip install -r requirements.txt
+
 streamlit run app.py
-📁 Files
-app.py - Main app
-requirements.txt - Dependencies
+
 👤 Author
-Ridhika | GitHub
+Ridhika 
