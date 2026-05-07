@@ -3,8 +3,7 @@ AI-Powered Resume Matcher
 
 An intelligent tool that calculates the alignment between a PDF resume and a Job Description using advanced NLP.
 
-🚀 Live Demo: https://resume-analyzer-ridhika0000.streamlit.app
-https://resume-analyzer-frod2eu999zaasbgmaw74b.streamlit.app/
+🚀 Live Demo: https://resume-analyzer-frod2eu999zaasbgmaw74b.streamlit.app/
 🛠 Tech Stack
 Frontend: Streamlit  
 
